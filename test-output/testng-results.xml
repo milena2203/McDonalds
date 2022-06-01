@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-01T22:02:13 CEST" name="Default suite" finished-at="2022-06-01T22:02:17 CEST" duration-ms="4858">
+    <groups>
+    </groups>
+    <test started-at="2022-06-01T22:02:13 CEST" name="Default test" finished-at="2022-06-01T22:02:17 CEST" duration-ms="4858">
+      <class name="tests.InvalidLogIn">
+        <test-method is-config="true" signature="createDriver()[pri:0, instance:tests.InvalidLogIn@1613674b]" started-at="2022-06-01T22:02:13 CEST" name="createDriver" finished-at="2022-06-01T22:02:14 CEST" duration-ms="1635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="test1()[pri:0, instance:tests.InvalidLogIn@1613674b]" started-at="2022-06-01T22:02:14 CEST" name="test1" finished-at="2022-06-01T22:02:16 CEST" duration-ms="1906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:tests.InvalidLogIn@1613674b]" started-at="2022-06-01T22:02:16 CEST" name="test2" finished-at="2022-06-01T22:02:17 CEST" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:tests.InvalidLogIn@1613674b]" started-at="2022-06-01T22:02:17 CEST" name="test3" finished-at="2022-06-01T22:02:17 CEST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.InvalidLogIn@1613674b]" started-at="2022-06-01T22:02:17 CEST" name="close" finished-at="2022-06-01T22:02:17 CEST" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.InvalidLogIn -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
